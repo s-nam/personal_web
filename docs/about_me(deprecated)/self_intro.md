@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: default
 title: Self-introduction
-parent: About me
-nav_order: 2
----
+parent: About me2
+nav_order: 1
+--- -->
 
 ## Saekwang Nam (남세광) | Tactile Roboticist
 
