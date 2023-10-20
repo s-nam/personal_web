@@ -5,7 +5,7 @@ author: Saekwang Nam
 date: 2023-07-31 00:40:00 +0000
 parent: Thoughts
 grand_parent: About me
-nav_order: 2
+nav_order: 1
 ---
 
 # 포닥과정의 필요성
