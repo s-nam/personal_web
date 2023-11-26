@@ -7,8 +7,9 @@ nav_order: 1
 # Saekwang Nam
 
 ---
-{: .warning }
-> I am migrating my old website to this new website. Therefore, this is currently under construction.
+
+{: .note }
+> Nov. 26th, 2023: Uploaded the procedures for the camera calibration (<a href="./docs/robotics/misc/2023-11-25-Camera_calibration.html">Click</a>)
 
 ---
 <img align="right" src="/assets/images/Saekwang_Nam_magnified.png" alt="Saekwang Nam" style="width:150px;"/>
