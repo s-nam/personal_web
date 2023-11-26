@@ -5,13 +5,11 @@ nav_order: 1
 ---
 
 # Saekwang Nam
-
----
+----
 
 {: .note }
 > Nov. 26th, 2023: Uploaded the procedures for the camera calibration (<a href="./docs/robotics/misc/2023-11-25-Camera_calibration.html">Click</a>)
 
----
 <img align="right" src="/assets/images/Saekwang_Nam_magnified.png" alt="Saekwang Nam" style="width:150px;"/>
 I am currently a postdoctoral research associate in [Dexterous Robotics Group](https://www.bristolroboticslab.com/dexterous-robotics) of Bristol Robotics Laboratory (University of Bristol), UK. I am working on developing and controlling a **tactile-based robot gripper** for dexterous object manipulation.
 

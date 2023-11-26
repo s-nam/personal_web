@@ -14,6 +14,8 @@ nav_order: 1
 - <a href="https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html" target="_blank">OpenCV - Camera Calibration</a>
 - <a href="https://uk.mathworks.com/help/vision/ug/camera-calibration.html" target="_blank">MathWorks - What Is Camera Calibration?</a>
 - <a href="https://aliyasineser.medium.com/opencv-camera-calibration-e9a48bdd1844" target="_blank">OpenCV Camera Calibration by Ali Yasin Eser</a>
+- <a href="https://learnopencv.com/understanding-lens-distortion/" target="_blank">Understanding Lens Distortion</a>
+
 
 ## 2. Camera calibration?
 
